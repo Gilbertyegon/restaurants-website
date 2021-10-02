@@ -13,3 +13,27 @@ nav1{font-size: xx-large;
     text-decoration: yellowgreen;
     font-family: 'Courier New', Courier, monospace;
 }
+#section-2 {
+    display: flex;
+    text-align: center;
+    flex-wrap: nowrap;
+    flex-direction: row;
+}
+#section-2 > div{
+    margin-top: 100px;
+    margin-right: 100px;
+    margin-left: 0px;
+    padding: 2px;
+}
+#margin{
+    margin-left: 65px;
+    
+}
+.image1{
+    position: relative;
+    right: 100px;
+    width: 50%;
+    margin-left: 100px;
+    
+    
+}
