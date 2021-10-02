@@ -1,0 +1,15 @@
+.home{
+    background-color:rgb(222, 223, 224);
+    list-style-type: none;
+    text-align: center;
+    margin: 0;
+    padding: 0;
+    flex-grow: inherit;
+}
+nav1{font-size: xx-large;
+    text-align: center;
+    background-color: rosybrown;
+    font-style: italic;
+    text-decoration: yellowgreen;
+    font-family: 'Courier New', Courier, monospace;
+}
