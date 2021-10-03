@@ -324,21 +324,24 @@ div > .burger > img{
     top: 110px;
     border-bottom: 0px;
 }
-#slide-2 .image {
-    margin-top: -150px;
-    position: relative;
-    height: 60vh;
+
 }
 #slide-2 .image img {
+    left: 70px;
     position: relative;
     bottom: 0;
-    left: 60px;
-    top: 30px;
+    top: 35px;
+}
+#slide-2 .image {
+    position: relative;
+    margin-top: -150px;
+    height: 60vh;
 }
 #slide-2 .image img.right {
-    left: 150px;
-    width: 250px;
+    
+    width: 260px;
     position: relative;
-    bottom: 100px;
-    margin-top: -180px;
+    left: 140px;
+    bottom: 110px;
+    margin-top: -170px;
 }
