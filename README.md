@@ -7,4 +7,9 @@ You must having visual studio installed to allow you to write the code with
 You need to have git installed
 Use the command below to insatalled
 'sudo apt install git-all'
-
+### set up
+so as to access the project on ur local files, you have to clone it using the steps below 
+1. open the terminal . press CTRL+ALT+T ubuntu and ctrl+shift+t in macos
+2. use this command to clone 's git clone https://github.com/Gilbertyegon/restaurants-website
+3. this will clone the repository into your local browser
+4. work on the project and push it to git
