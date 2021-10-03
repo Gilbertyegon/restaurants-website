@@ -1,6 +1,9 @@
-ul{
+.home{
+    overflow: hidden;
     list-style-type: none;
-    font-size: large;
+    background-image: url(Assets/image 2 (1).png);
+    Background-Color: #649549
+    padding: 20px 10px;
     
 }
 li{
