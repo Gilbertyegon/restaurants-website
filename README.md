@@ -21,3 +21,5 @@ so as to access the project on ur local files, you have to clone it using the st
 The project is under the (MIT)(lilcense)license
 ### contact us
 If you have any questions please contact us on gilbert.yegon@moringaschool.com
+### live sites
+view (live)(https://github.com/Gilbertyegon/restaurants-website)
