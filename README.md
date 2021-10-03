@@ -16,4 +16,8 @@ so as to access the project on ur local files, you have to clone it using the st
 ### Tech used
 1. HTML git
 2. css
-3.githup
+3. githup
+### license
+The project is under the (MIT)(lilcense)license
+### contact us
+If you have any questions please contact us on gilbert.yegon@moringaschool.com
