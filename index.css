@@ -4,28 +4,16 @@ ul{
 }
 li{
     display: inline-block;
-    margin: 16px;
+    margin: 20px;
     padding: 10px;
-    border: 16px;
+    border: 14px;
 }
 .one{
     background-color: lightgrey;
 }
-.bold{
-    font-weight: bold;
-}
 body{
-    font-family: "Poppins",sans-serif;
-    font-size: large;
-    
-}
-.lightgreen{
-    color: #6CB840;
-    font-size: 2em;
-}
-.lightorange{
-    color: #EAAB1B;
-    font-size: 2em;
+    font-size: medium;
+    font-family: 'Times New Roman', Times, serif;
 }
 .button{
     display: inline-block;
