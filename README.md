@@ -13,3 +13,7 @@ so as to access the project on ur local files, you have to clone it using the st
 2. use this command to clone 's git clone https://github.com/Gilbertyegon/restaurants-website
 3. this will clone the repository into your local browser
 4. work on the project and push it to git
+### Tech used
+1. HTML git
+2. css
+3.githup
