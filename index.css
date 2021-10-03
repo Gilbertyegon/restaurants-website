@@ -41,6 +41,7 @@ body{
     right: 100px;
     width: 70%;
     margin-left: 100px;
+
 }
 #section-1{
     text-align: center;
@@ -48,11 +49,13 @@ body{
     flex-wrap: nowrap;
     display: flex;
 }
+
 #section-1 >div{
     padding: 3px;
     margin-right: 90px;
     margin-top: 80px;
     margin-left: 7px;
+
 }
 .image1{
     width: 55%;
@@ -66,4 +69,61 @@ body{
     display: flex;
     flex-direction: row;
     justify-content: space-evenly;
+}
+
+#section-2{
+    background-color: lightgrey;
+}
+#section-2 .row .burger{
+    width: 23%;
+    background-color: white;
+    padding: 10px 22px;
+    bottom: 65px;
+    position: relative;
+    border-radius: 0 0 60px 0;
+}
+
+.burger p{
+    width: 100px;
+    font-weight: 500;
+    font-size: 15px;
+    text-align: center;
+    float: right;
+}
+#slide-1 .content>div{
+    flex: 1;
+}
+
+#slide-1 .image{
+    margin-top: -150px;
+    height: 50vh;
+    margin-bottom: 100px;
+    position: relative;
+}
+#slide-1 .image img{
+position: absolute;
+bottom: 0;
+left: 60px;
+top: 15px;
+height: 100%;
+width: 60%;
+}
+#slide-1 .image .right{
+left: 150px;
+width: 50%;
+height: 50%;
+margin-top: 260px;
+margin-left: 10px;
+}
+
+#slide-1 .contact h2, #slide-2 .content h1{
+    margin: 7px 0;
+
+}
+#slide-1 .content p{
+    width: 60%;
+    font-size: 1em;
+    font-weight: 600;
+    color: #555;
+    text-align: center;
 }
