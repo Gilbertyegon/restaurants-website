@@ -1,7 +1,7 @@
 .home{
     overflow: hidden;
     list-style-type: none;
-    Background-Color: #649549
+    Background-Color: #649549;
     padding: 20px 10px;
     
 }
@@ -10,6 +10,10 @@ li{
     margin: 16px;
     padding: 10px;
     border: 16px;
+}
+.background{
+    overflow: hidden;
+    height: 500px;
 }
 .one{
     background-color: lightgrey;
@@ -71,7 +75,7 @@ body{
    
 }
 .image1{
-    width: 60%;
+    width: 50%;
 }
 .title{
     text-align: center;
@@ -93,7 +97,7 @@ body{
     width: 20%;
     padding: 10px 20px;
     background-color: white;
-    bottom: 60px;
+    bottom: 70px;
     position: relative;
     border-radius: 0 0 50px 0;
 }
@@ -115,7 +119,7 @@ body{
 }
 #slide-2 .image img{
     position: absolute;
-    bottom: 0;
+    bottom: 0px;
     left: 60px;
     top: -18px;
     height: 110%;
@@ -341,4 +345,79 @@ div > .burger > img{
     bottom: 100px;
     width: 250px;
     margin-top: -180px;
+}
+/* menu bar */
+.menu{
+    display: flex;
+    justify-content: space-between;
+    width: 100%;
+    position: relative;
+    z-index: 2;
+}
+.coll ul li a{
+    color:black;
+    text-decoration: none;
+}
+input[type=submit]{
+    width: 130px;
+    border: none;
+    height: 40px;
+    border-radius: 20px;
+    background-color: #649549;
+    color: white;
+    font-weight: bold;
+}
+.background{
+    background-color: #E5E5E5;
+}
+.street{
+    padding-left: 70px;
+    
+}
+.streetext{
+    display: flex;
+    justify-content: space-between;
+    margin-right: 100px;
+    position: relative;
+    z-index: 2;
+}
+.foodcircle{
+    width: 300px;
+    height: 300px;
+    border-radius: 50%;
+    border: 3px dashed #6CB840;
+}
+#image1{
+    transform: translate(-50px,70px);
+}
+#image2{
+    transform: translate(-130px,-30px);
+}
+#image3{
+    transform: translate(110px,-230px);
+}
+#image4{
+    transform: translate(90px,-150px);
+}
+#image5{
+    transform: translate(250px,-160px);
+}
+#image6{
+    transform: translate(50px,-300px);
+    width: 200px;
+
+}
+#logo{
+    width: 20px;
+}
+.blank{
+    content: "";
+    width: 700px;
+    height: 700px;
+    background-color: #B8E79C;
+    border-radius: 50%;
+    margin-left: 600px;
+    transform: translateY(-700px);
+    position: relative;
+    z-index: 1;
 }
